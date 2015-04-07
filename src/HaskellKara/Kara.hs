@@ -1,0 +1,3 @@
+-- |
+
+module HaskellKara.Kara where
